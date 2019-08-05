@@ -17,6 +17,7 @@ public class FirstDemo {
 		//comment for checking push -try2
 		//adding comment on 5 august
 		//new comment thru demorepo
+		//comment thru git2
 	}
 
 }
